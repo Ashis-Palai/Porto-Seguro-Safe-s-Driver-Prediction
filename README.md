@@ -1,1 +1,1 @@
-# Porto-Seguro-Safe-s-Driver-Prediction
+The project is about one Kaggle competition, one of Brazil's largest auto and homeowner insurance companies, the goal is to predict if the driver is going to initiate an auto insurance claim in the next year based on the existing data collected by the company. Accurate prediction will allow the company to further tailor their prices and hopefully make auto insurance coverage more accessible to more drivers.
