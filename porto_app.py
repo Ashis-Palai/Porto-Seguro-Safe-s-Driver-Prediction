@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from sklearn import linear_model
 from bs4 import BeautifulSoup
+from collections.abc import Mapping
 from flask_restful import Resource
 import csv
 
